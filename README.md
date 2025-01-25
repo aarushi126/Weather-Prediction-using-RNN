@@ -37,7 +37,7 @@ The notebook demonstrates the capability of RNNs in accurately forecasting maxim
 5. Open the notebook in Jupyter Notebook and execute each cell sequentially to reproduce the results.
 
 ## References:
-- [Link to Dataset](https://github.com/deeppadmani/Datasets/blob/main/weather/seattle-weather.csv)
+- [Link to Dataset](https://github.com/aarushi126/Weather-Prediction-using-RNN/blob/main/seattle-weather.csv)
 - [Scikit-Learn Documentation](https://scikit-learn.org/stable/documentation.html)
 - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
 - [Seaborn Documentation](https://seaborn.pydata.org/tutorial.html)
